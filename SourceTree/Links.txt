@@ -1,5 +1,14 @@
 Install SourceTree:
 https://confluence.atlassian.com/get-started-with-sourcetree/install-sourcetree-847359094.html
 
-Connect your Bitbucket or Github account
+Connect your Bitbucket or Github account:
 https://confluence.atlassian.com/get-started-with-sourcetree/connect-your-bitbucket-or-github-account-847359096.html
+
+Clone a remote repository:
+https://confluence.atlassian.com/get-started-with-sourcetree/clone-a-remote-repository-847359098.html
+
+Create a local repository:
+https://confluence.atlassian.com/get-started-with-sourcetree/create-a-local-repository-847359103.html
+
+Add an existing local repository:
+https://confluence.atlassian.com/get-started-with-sourcetree/add-an-existing-local-repository-847359105.html
